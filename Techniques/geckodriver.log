@@ -1,0 +1,548 @@
+1622694501979	geckodriver	INFO	Listening on 127.0.0.1:53572
+1622694505074	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofiletsVqVw"
+1622694506474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622694512030	Marionette	INFO	Listening on port 53583
+1622694512254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1622694539258	Marionette	INFO	Stopped listening on port 53583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622694542552	geckodriver	INFO	Listening on 127.0.0.1:53717
+1622694545653	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileYSIAbM"
+1622694548012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622694553246	Marionette	INFO	Listening on port 53728
+1622694553312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1622694557521	Marionette	INFO	Stopped listening on port 53728
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 14968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622700274615	geckodriver	INFO	Listening on 127.0.0.1:55983
+1622700277709	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilexGCVj8"
+1622700278828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622700282663	Marionette	INFO	Listening on port 55997
+1622700283173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+[Parent 8484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622700414327	Marionette	INFO	Stopped listening on port 55997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+dw"
+1622700406369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622700410688	Marionette	INFO	Listening on port 56249
+1622700411084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1622700600268	Marionette	INFO	Stopped listening on port 56249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile6MgKbP"
+1622700471314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622700475401	Marionette	INFO	Listening on port 56424
+1622700475701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1622700478167	Marionette	INFO	Stopped listening on port 56424
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 19424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622700538102	geckodriver	INFO	Listening on 127.0.0.1:56594
+1622700541202	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile2lgXjF"
+1622700542312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622700545721	Marionette	INFO	Listening on port 56605
+1622700546150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1622700547995	Marionette	INFO	Stopped listening on port 56605
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 19248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622702799723	geckodriver	INFO	Listening on 127.0.0.1:60101
+1622702802797	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileYsV2Lr"
+1622702803542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622702808212	Marionette	INFO	Listening on port 60112
+1622702808252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622702865100	Marionette	INFO	Stopped listening on port 60112
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilenuXB2q"
+1622702812626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622702815608	Marionette	INFO	Listening on port 60212
+1622702815810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622702883021	Marionette	INFO	Stopped listening on port 60212
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622703007221	geckodriver	INFO	Listening on 127.0.0.1:60586
+1622703010313	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile1adlaF"
+1622703011332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622703013874	Marionette	INFO	Listening on port 60599
+1622703014196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622703080959	Marionette	INFO	Stopped listening on port 60599
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile1VYqQQ"
+1622703075572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622703079612	Marionette	INFO	Listening on port 60800
+1622703079792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622703124957	Marionette	INFO	Stopped listening on port 60800
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileaydfXf"
+1622703118773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622703121506	Marionette	INFO	Listening on port 60977
+1622703121948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622703186461	Marionette	INFO	Stopped listening on port 60977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileFwtloT"
+1622703185204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622703188202	Marionette	INFO	Listening on port 61179
+1622703188487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622704244700	Marionette	INFO	Stopped listening on port 61179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileLljN7Y"
+1622703356673	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622703359411	Marionette	INFO	Listening on port 61614
+1622703359852	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622703680663	Marionette	INFO	Stopped listening on port 61614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622703833939	geckodriver	INFO	Listening on 127.0.0.1:62407
+1622703837032	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileSEFAPp"
+1622703837972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622703841021	Marionette	INFO	Listening on port 62418
+1622703841402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622704226301	Marionette	INFO	Stopped listening on port 62418
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622706013390	geckodriver	INFO	Listening on 127.0.0.1:49871
+1622706016478	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileFCDXSS"
+1622706018114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622706021176	Marionette	INFO	Listening on port 49882
+1622706021438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622706622463	Marionette	INFO	Stopped listening on port 49882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileVxqFDE"
+1622706613846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622706617142	Marionette	INFO	Listening on port 51790
+1622706617630	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1622706731374	Marionette	INFO	Stopped listening on port 51790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileWfM7yt"
+1622706731724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622706734992	Marionette	INFO	Listening on port 52399
+1622706735151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622706928279	Marionette	INFO	Stopped listening on port 52399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilebe8E8K"
+1622706799129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622706802997	Marionette	INFO	Listening on port 52856
+1622706803127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622706929527	Marionette	INFO	Stopped listening on port 52856
+1622706938627	geckodriver	INFO	Listening on 127.0.0.1:53493
+1622706941676	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileCHZ922"
+1622706942778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622706947356	Marionette	INFO	Listening on port 53519
+1622706947751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622706953468	Marionette	INFO	Stopped listening on port 53519
+[Child 11404, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 11404, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622706964836	geckodriver	INFO	Listening on 127.0.0.1:53753
+1622706967897	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilekdTaqZ"
+1622706969683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622706972572	Marionette	INFO	Listening on port 53764
+1622706972875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622706981602	Marionette	INFO	Stopped listening on port 53764
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622706995357	geckodriver	INFO	Listening on 127.0.0.1:54022
+1622706998920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileMMUIBm"
+1622706999637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622707002933	Marionette	INFO	Listening on port 54041
+1622707003278	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1622707035930	Marionette	INFO	Stopped listening on port 54041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622707321771	geckodriver	INFO	Listening on 127.0.0.1:55170
+1622707324815	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilemFY12L"
+1622707325721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622707331762	Marionette	INFO	Listening on port 55185
+1622707331958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1622707440695	Marionette	INFO	Stopped listening on port 55185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofile?" (new Error("", "(unknown module)"))
+1622707386566	Marionette	INFO	Listening on port 55612
+1622707386757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622707412305	Marionette	INFO	Stopped listening on port 55612
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622707415375	geckodriver	INFO	Listening on 127.0.0.1:55969
+1622707418420	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile83Lgln"
+1622707420083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622707423280	Marionette	INFO	Listening on port 55984
+1622707423388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622707442609	Marionette	INFO	Stopped listening on port 55984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622707449383	geckodriver	INFO	Listening on 127.0.0.1:56347
+1622707452452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileGw0itO"
+1622707453287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622707457596	Marionette	INFO	Listening on port 56365
+1622707457914	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622707654952	Marionette	INFO	Stopped listening on port 56365
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+P"
+1622707655445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622707658450	Marionette	INFO	Listening on port 57149
+1622707658804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622707744723	Marionette	INFO	Stopped listening on port 57149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622709267666	geckodriver	INFO	Listening on 127.0.0.1:60123
+1622709270745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilewDIF9e"
+1622709272725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622709277872	Marionette	INFO	Listening on port 60134
+1622709277946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622709423554	Marionette	INFO	Stopped listening on port 60134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile3bQdu4"
+1622709424341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622709427686	Marionette	INFO	Listening on port 60563
+1622709427905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622709621256	Marionette	INFO	Stopped listening on port 60563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile2eZCKB"
+1622709479199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622709482577	Marionette	INFO	Listening on port 60830
+1622709482929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622709610942	Marionette	INFO	Stopped listening on port 60830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileevBtfr"
+1622709611517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622709616257	Marionette	INFO	Listening on port 61230
+1622709616527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622709757880	Marionette	INFO	Stopped listening on port 61230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilerjQFic"
+1622709746554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622709750401	Marionette	INFO	Listening on port 61632
+1622709750477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622709803736	geckodriver	INFO	Listening on 127.0.0.1:61880
+1622709806782	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilep3y6Hh"
+1622709807487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622709810997	Marionette	INFO	Listening on port 61894
+1622709811138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622709858340	Marionette	INFO	Stopped listening on port 61894
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622709886945	geckodriver	INFO	Listening on 127.0.0.1:62203
+1622709890039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilelGl3qo"
+1622709890991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622709895669	Marionette	INFO	Listening on port 62218
+1622709896169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710039521	Marionette	INFO	Stopped listening on port 62218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileYvdPxZ"
+1622710032463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710036972	Marionette	INFO	Listening on port 62626
+1622710037276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710141737	Marionette	INFO	Stopped listening on port 62626
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileQYyHFf"
+1622710135148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710139015	Marionette	INFO	Listening on port 63008
+1622710139281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710430576	Marionette	INFO	Stopped listening on port 63008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileJMo2Qu"
+1622710210203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710214392	Marionette	INFO	Listening on port 63301
+1622710214714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710431846	Marionette	INFO	Stopped listening on port 63301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileVbAgmG"
+1622710297140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710300672	Marionette	INFO	Listening on port 63625
+1622710301064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710432868	Marionette	INFO	Stopped listening on port 63625
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622710461749	geckodriver	INFO	Listening on 127.0.0.1:64061
+1622710464769	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileKviFzf"
+1622710465809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710469640	Marionette	INFO	Listening on port 64072
+1622710469717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710528400	Marionette	INFO	Stopped listening on port 64072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileEd8Cg4"
+1622710523930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710528532	Marionette	INFO	Listening on port 64343
+1622710528622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710589097	Marionette	INFO	Stopped listening on port 64343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilertgRuK"
+1622710584817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710588158	Marionette	INFO	Listening on port 64623
+1622710588384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622710649618	Marionette	INFO	Stopped listening on port 64623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile58AAdk"
+1622710645582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710649148	Marionette	INFO	Listening on port 64901
+1622710649322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622711036033	Marionette	INFO	Stopped listening on port 64901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileAIUrCp"
+1622710992863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622710996044	Marionette	INFO	Listening on port 49414
+1622710996440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622711053721	Marionette	INFO	Stopped listening on port 49414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile5WzmXa"
+1622711035469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622711039012	Marionette	INFO	Listening on port 49662
+1622711039078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622711227205	Marionette	INFO	Stopped listening on port 49662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile6E2SPK"
+1622711145237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622711149395	Marionette	INFO	Listening on port 50067
+1622711149495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622711228180	Marionette	INFO	Stopped listening on port 50067
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilekXnMw0"
+1622711220112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622711222898	Marionette	INFO	Listening on port 50382
+1622711223165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.philippineairlines.com/en/ph/home line 1933 > injectedScript, line 1: TypeError: sreac_check is null
+JavaScript error: , line 0: uncaught exception: undefined
+1622711255106	Marionette	INFO	Stopped listening on port 50382
+1622713266248	geckodriver	INFO	Listening on 127.0.0.1:53818
+1622713269337	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileWn5I7P"
+1622713270065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622713273907	Marionette	INFO	Listening on port 53829
+1622713274289	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7144, IPC I/O Parent] WARNING: file /builds/worker/c1622713303620	mozrunner::runner	INFO	Running command: "C:\\Pro1622713312389	Marionette	INFO	Stopped listening on port 53829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Xa"
+1622713305372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1622713325601	Marionette	INFO	Listening on port 54161
+1622713328230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622713346697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1181: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021052601.js, line 6: NS_ERROR_NOT_INITIALIZED: 
+1622713600945	Marionette	INFO	Stopped listening on port 54161
+
+###!!! [Child][RunMessage] Error: Chaconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622713605195	Marionette	INFO	Listening on port 54738
+1622713605351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622713608663	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1622713661105	mozrunner::runner	INFO	Running command: 1622713661432	Marionette	INFO	Stopped listening on port 54738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+fileTWYBcw"
+1622713662142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622713667784	Marionette	INFO	Listening on port 55024
+1622713668845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622713702706	Marionette	INFO	Stopped listening on port 55024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622713717753	geckodriver	INFO	Listening on 127.0.0.1:55390
+1622713720800	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileUd89xL"
+1622713721784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622713733839	Marionette	INFO	Listening on port 55401
+1622713733968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622713751954	Marionette	INFO	Stopped listening on port 55401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622713814357	geckodriver	INFO	Listening on 127.0.0.1:55854
+1622713817454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileO6s9cU"
+1622713818834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622713826982	Marionette	INFO	Listening on port 55867
+1622713827314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622715111813	Marionette	INFO	Stopped listening on port 55867

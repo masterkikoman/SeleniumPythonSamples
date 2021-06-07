@@ -1,0 +1,30 @@
+1622625646173	geckodriver	INFO	Listening on 127.0.0.1:64472
+1622625649674	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileJBEopx"
+1622625650748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622625654434	Marionette	INFO	Listening on port 64482
+1622625654619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622625803646	Marionette	INFO	Stopped listening on port 64482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622625810950	geckodriver	INFO	Listening on 127.0.0.1:64634
+1622625813972	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileGM8BHQ"
+1622625814919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622625818217	Marionette	INFO	Listening on port 64643
+1622625818317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622630631315	Marionette	INFO	Stopped listening on port 64643
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileo5iDRU"
+1622626605645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622626610877	Marionette	INFO	Listening on port 64932
+1622626611308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1622626632390	Marionette	INFO	Stopped listening on port 64932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
