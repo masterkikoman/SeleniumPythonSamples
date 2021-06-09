@@ -1,7 +1,7 @@
 import time
 
 from selenium import webdriver
-driver = webdriver.Firefox(executable_path="C:\\Drivers\\geckodriver.exe")
+driver = webdriver.Firefox(executable_path="C:\\Users\\kalmazan\\SeleniumDrivers\\geckodriver.exe")
 driver.maximize_window()
 
 driver.get("https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_checkbox")

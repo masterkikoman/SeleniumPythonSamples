@@ -28,3 +28,18 @@ JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateE
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1623228645128	geckodriver	INFO	Listening on 127.0.0.1:55150
+1623228648172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilenHvnVb"
+1623228648508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilenHvnVb\\search.json.mozlz4", (void 0)))
+1623228650175	Marionette	INFO	Listening on port 55158
+1623228650245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://automationpractice.com/js/jquery/jquery-1.11.0.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 17804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1623228664742	Marionette	INFO	Stopped listening on port 55158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

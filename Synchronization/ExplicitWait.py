@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
-driver = webdriver.Firefox(executable_path="C:\\Drivers\\geckodriver.exe")
+driver = webdriver.Firefox(executable_path="C:\\Users\\kalmazan\\SeleniumDrivers\\geckodriver.exe")
 driver.maximize_window()
 
 driver.get("http://automationpractice.com/")

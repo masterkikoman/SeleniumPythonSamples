@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
 
-driver = webdriver.Firefox(executable_path="C:\\Drivers\\geckodriver.exe")
+driver = webdriver.Firefox(executable_path="C:\\Users\\kalmazan\\SeleniumDrivers\\geckodriver.exe")
 driver.maximize_window()
 
 driver.get("https://blazedemo.com/")

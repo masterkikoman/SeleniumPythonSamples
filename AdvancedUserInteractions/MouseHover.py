@@ -3,7 +3,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import Keys
-driver = webdriver.Firefox(executable_path="C:\\Drivers\\geckodriver.exe")
+driver = webdriver.Firefox(executable_path="C:\\Users\\kalmazan\\SeleniumDrivers\\geckodriver.exe")
 driver.maximize_window()
 driver.implicitly_wait(15)
 

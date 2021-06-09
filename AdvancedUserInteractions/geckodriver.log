@@ -70,3 +70,108 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1623228876125	geckodriver	INFO	Listening on 127.0.0.1:64227
+1623228879166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileg2M8sm"
+1623228879399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileg2M8sm\\search.json.mozlz4", (void 0)))
+1623228880912	Marionette	INFO	Listening on port 64237
+1623228881209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623228903818	Marionette	INFO	Stopped listening on port 64237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623230358363	geckodriver	INFO	Listening on 127.0.0.1:55887
+1623230361422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile8g9pCb"
+1623230361661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofile8g9pCb\\search.json.mozlz4", (void 0)))
+1623230363913	Marionette	INFO	Listening on port 55895
+1623230364100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623230373611	Marionette	INFO	Stopped listening on port 55895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623230402184	geckodriver	INFO	Listening on 127.0.0.1:63312
+1623230405252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofiled74hfn"
+1623230405492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofiled74hfn\\search.json.mozlz4", (void 0)))
+1623230406989	Marionette	INFO	Listening on port 63320
+1623230407292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/practice/practice-pop-ups-selenium-webdriver, line 25: ReferenceError: $ is not defined
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index8.js, line 28: TypeError: search is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index8.js, line 10: TypeError: document.getElementById(...) is null
+1623230415767	Marionette	INFO	Stopped listening on port 63320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623230509594	geckodriver	INFO	Listening on 127.0.0.1:56058
+1623230512653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileHHT0e0"
+1623230512893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileHHT0e0\\search.json.mozlz4", (void 0)))
+1623230514355	Marionette	INFO	Listening on port 56066
+1623230514696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/practice/practice-pop-ups-selenium-webdriver, line 25: ReferenceError: $ is not defined
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index8.js, line 28: TypeError: search is null
+JavaScript error: https://chercher.tech/js/index8.js, line 10: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1623230520255	Marionette	INFO	Stopped listening on port 56066
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623230630006	geckodriver	INFO	Listening on 127.0.0.1:56114
+1623230633061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilej6kxTk"
+1623230633302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofilej6kxTk\\search.json.mozlz4", (void 0)))
+1623230634837	Marionette	INFO	Listening on port 56123
+1623230635129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/practice/practice-pop-ups-selenium-webdriver, line 25: ReferenceError: $ is not defined
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index8.js, line 28: TypeError: search is null
+JavaScript error: https://chercher.tech/js/index8.js, line 10: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/practice/practice-pop-ups-selenium-webdriver, line 25: ReferenceError: $ is not defined
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index8.js, line 28: TypeError: search is null
+JavaScript error: https://chercher.tech/js/index8.js, line 10: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1623230869109	Marionette	INFO	Stopped listening on port 56123
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileMrCu1y"
+1623230743170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileMrCu1y\\search.json.mozlz4", (void 0)))
+1623230744568	Marionette	INFO	Listening on port 61579
+1623230744994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/practice/practice-pop-ups-selenium-webdriver, line 25: ReferenceError: $ is not defined
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index8.js, line 28: TypeError: search is null
+JavaScript error: https://chercher.tech/js/index8.js, line 10: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/practice/practice-pop-ups-selenium-webdriver, line 25: ReferenceError: $ is not defined
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index8.js, line 28: TypeError: search is null
+JavaScript error: https://chercher.tech/js/index8.js, line 10: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1623230882877	Marionette	INFO	Stopped listening on port 61579
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623230984780	geckodriver	INFO	Listening on 127.0.0.1:57512
+1623230987817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileEDi7ks"
+1623230988054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofileEDi7ks\\search.json.mozlz4", (void 0)))
+1623230989611	Marionette	INFO	Listening on port 57525
+1623230989879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chercher.tech/practice/practice-pop-ups-selenium-webdriver, line 25: ReferenceError: $ is not defined
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index8.js, line 28: TypeError: search is null
+JavaScript error: https://chercher.tech/js/index8.js, line 10: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1623231000106	Marionette	INFO	Stopped listening on port 57525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Invalid port. Exiting...

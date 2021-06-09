@@ -2,7 +2,7 @@ import time
 
 from selenium import webdriver
 
-driver = webdriver.Firefox(executable_path="C:\\Drivers\\geckodriver.exe")
+driver = webdriver.Firefox(executable_path="C:\\Users\\kalmazan\\SeleniumDrivers\\geckodriver.exe")
 driver.maximize_window()
 
 driver.get("http://automationpractice.com/")
